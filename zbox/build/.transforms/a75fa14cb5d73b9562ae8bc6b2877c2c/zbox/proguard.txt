@@ -1,0 +1,3 @@
+-keep class go.** { *; }
+-keep class zbox.** { *; }
+-keep class zcncore.** { *; }
